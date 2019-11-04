@@ -76,9 +76,8 @@ p {
   margin-top: 0;
   margin-bottom: 1rem; }
 
-.lb{
-  background-image: url(../images/logo-preto.png);
-  background-size: cover;
+.logotipo{
+  margin-top: -100px;
 }
 
 
