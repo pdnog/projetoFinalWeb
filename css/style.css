@@ -115,7 +115,9 @@ dd {
   margin-left: 0; }
 
 blockquote {
-  margin: 0 0 1rem; }
+  margin: 0 0 1rem;
+  
+}
 
 b,
 strong {
@@ -328,6 +330,20 @@ h5, .h5 {
 
 h6, .h6 {
   font-size: 1rem; }
+
+
+.clientes{
+    border-radius: 5px;
+    max-height: 100px;
+    display: inline;
+    margin-left: 6px;
+  }
+
+  .clientes img{
+    opacity: 0.7;
+    -moz-opacity: 0.85;
+    filter: alpha(opacity=85);
+  }
 
 .lead {
   font-size: 1.25rem;
@@ -2037,7 +2053,7 @@ textarea.form-control {
 
 .btn {
   display: inline-block;
-  font-weight: 400;
+  font-weight: 100;
   color: #212529;
   text-align: center;
   vertical-align: middle;
@@ -8592,7 +8608,8 @@ strong {
 
 .ftco-about .img-about-2 {
   height: 300px;
-  width: 100%; }
+  width: 100%;
+ }
 
 .ftco-about .counter-wrap .text p {
   font-size: 10px;
@@ -9178,6 +9195,19 @@ textarea.form-control {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px; }
+
+
+
+.heading-section2 h2 {
+  font-size: 16px;
+  color: #9da1a5;
+  line-height: 1.4;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px; 
+  text-align: center;
+  margin-bottom: 100px;
+}
 
 .img,
 .model-img,
