@@ -34,10 +34,23 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.flaticon-video-camera{
+  align-items: center;
+}
 
+.flaticon-instagram{
+  align-items: center;
+}
 
+.flaticon-video-player-1{
+  align-items: center;
+}
 .flaticon-instagram:before { content: "\f100"; }
 .flaticon-camera-shutter:before { content: "\f101"; }
+
+
 .flaticon-video-camera:before { content: "\f102"; }
+
+
 .flaticon-video-player:before { content: "\f103"; }
 .flaticon-video-player-1:before { content: "\f104"; }
